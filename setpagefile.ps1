@@ -70,8 +70,8 @@
 
 Set-PageFile -path C:\pagefile.sys -InitialSize 1000 -MaximumSize 2000
 
-Remove-Partition -DriveLetter D -Confirm:$false
-get-disk -Number 1 | Set-Disk –IsOffline $True
+# Remove-Partition -DriveLetter D -Confirm:$false
+# get-disk -Number 1 | Set-Disk –IsOffline $True
 
 restart-computer -force
 
