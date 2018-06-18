@@ -1,8 +1,10 @@
 # the script take 1 parameters: 
-
-
-
-simonin@microsoft.com
+# time: 2018-6-18
+# time: 2018-6-18
+# time: 2018-6-18
+# time: 2018-6-18
+# time: 2018-6-18simonin@microsoft.com
+# time: 2018-6-18
 
 
 #prepare file 
