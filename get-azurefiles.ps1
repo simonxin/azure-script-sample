@@ -1,4 +1,11 @@
-﻿#prepare file 
+# the script take 1 parameters: 
+
+
+
+simonin@microsoft.com
+
+
+#prepare file 
 param (
 [Parameter(Mandatory=$false)][string]$outputpath =  "C:\windows\temp\"
       )
