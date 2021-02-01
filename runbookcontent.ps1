@@ -1,9 +1,3 @@
-<#
-    .DESCRIPTION
-        An example runbook which is used to run the sentinel query imported
-#>
-
-
 param (
 [Parameter(Mandatory=$false)][string]$cloud="mooncake",
 [Parameter(Mandatory=$false)][string]$logType="sentinelscanreport",
